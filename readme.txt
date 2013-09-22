@@ -14,6 +14,17 @@ Converts default WP gallery shortcode into ul/li list for slideshows
 
 Upload to plugins or install from WP Admin and activate.
 
+By adding "ul_class" argument to the gallery shortcode, WordPress will render the gallery as an unsorted list.
+
+Usage:
+    
+    ul_class - style class for slideshow container (ul)
+    li_class - (optional) style class for slideshow item (li)
+
+Example:
+
+    [gallery ul_class="slides-container" li_class="slide-container" ids="1,2,3,4"]
+
 == Frequently Asked Questions ==
 
 == Changelog ==
