@@ -7,7 +7,7 @@
 Plugin Name: IntelliWidget Gallery Slides
 Plugin URI: http://www.lilaeamedia.com/plugins/intelliwidget-gallery-slides
 Description: Converts default WP gallery shortcode into ul/li list for slideshows
-Author: Lilaea Media LLC
+Author: Lilaea Media
 Version: 1.0.0
 Author URI: http://www.lilaeamedia.com
 */
