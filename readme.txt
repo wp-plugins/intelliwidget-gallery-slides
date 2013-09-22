@@ -1,6 +1,6 @@
 === IntelliWidget Gallery Slides ===
 Contributors: lilaeamedia 
-Tags: intelliwidget, gallery shortcode, media library,
+Tags: unsorted list, intelliwidget, slides, slideshow, gallery, shortcode, media, library,
 Requires at least: 3.5
 Tested up to: 3.6.1
 Stable tag: 1.0.0
