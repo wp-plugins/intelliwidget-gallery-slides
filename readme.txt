@@ -2,7 +2,7 @@
 Contributors: lilaeamedia 
 Tags: unsorted list, intelliwidget, slides, slideshow, gallery, shortcode, media, library,
 Requires at least: 3.5
-Tested up to: 3.6.1
+Tested up to: 4.2 
 Stable tag: 1.0.0
 License: GPLv2
 
